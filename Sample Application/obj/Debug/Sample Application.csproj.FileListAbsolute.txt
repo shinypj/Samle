@@ -1,0 +1,3 @@
+c:\users\sony\documents\visual studio 2013\Projects\Sample Application\Sample Application\bin\Debug\Sample Application.exe.config
+c:\users\sony\documents\visual studio 2013\Projects\Sample Application\Sample Application\obj\Debug\Sample Application.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2013\Projects\Sample Application\Sample Application\bin\Debug\Sample Application.exe.config
